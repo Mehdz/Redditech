@@ -12,10 +12,17 @@ Here is our postman documentation : [Click here](https://documenter.getpostman.c
 
 
 <img width="300" alt="Home" src="https://github.com/Mehdz/Redditech/blob/main/AppScreens/Home.png">
-![DM](https://github.com/Mehdz/Redditech/blob/main/AppScreens/DM.png)
-![Profile](https://github.com/Mehdz/Redditech/blob/main/AppScreens/Profile.png)
-![FollowedSubreddit](https://github.com/Mehdz/Redditech/blob/main/AppScreens/Followed%20Subreddit.png)
-![Search](https://github.com/Mehdz/Redditech/blob/main/AppScreens/Search.png)
-![Settings](https://github.com/Mehdz/Redditech/blob/main/AppScreens/Settings.png)
-![Subreddit](https://github.com/Mehdz/Redditech/blob/main/AppScreens/Subreddit.png)
-![User Trophies](https://github.com/Mehdz/Redditech/blob/main/AppScreens/User%20Trophies.png)
+
+<img width="300" alt="DM" src="https://github.com/Mehdz/Redditech/blob/main/AppScreens/DM.png">
+
+<img width="300" alt="Profile" src="https://github.com/Mehdz/Redditech/blob/main/AppScreens/Profile.png">
+
+<img width="300" alt="Followed Subreddit" src="https://github.com/Mehdz/Redditech/blob/main/AppScreens/Followed%20Subreddit.png">
+
+<img width="300" alt="Search" src="https://github.com/Mehdz/Redditech/blob/main/AppScreens/Search.png">
+
+<img width="300" alt="Settings" src="https://github.com/Mehdz/Redditech/blob/main/AppScreens/Settings.png">
+
+<img width="300" alt="Subreddit" src="https://github.com/Mehdz/Redditech/blob/main/AppScreens/Subreddit.png">
+
+<img width="300" alt="User Trophies" src="https://github.com/Mehdz/Redditech/blob/main/AppScreens/User%20Trophies.png">
