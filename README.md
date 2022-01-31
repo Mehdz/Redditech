@@ -10,7 +10,8 @@ Here is our postman documentation : [Click here](https://documenter.getpostman.c
 
 ## Pictures
 
-![Home](https://github.com/Mehdz/Redditech/blob/main/AppScreens/Home.png | width=100)
+
+<img width="300" alt="Home" src="https://github.com/Mehdz/Redditech/blob/main/AppScreens/Home.png">
 ![DM](https://github.com/Mehdz/Redditech/blob/main/AppScreens/DM.png)
 ![Profile](https://github.com/Mehdz/Redditech/blob/main/AppScreens/Profile.png)
 ![FollowedSubreddit](https://github.com/Mehdz/Redditech/blob/main/AppScreens/Followed%20Subreddit.png)
