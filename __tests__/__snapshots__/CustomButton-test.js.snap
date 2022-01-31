@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "height": 45,
+        "opacity": 1,
+        "width": "90%",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          4294945024,
+          4294931968,
+          4291629371,
+        ]
+      }
+      endPoint={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      locations={null}
+      startPoint={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Object {
+          "alignItems": "center",
+          "borderRadius": 5,
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 16,
+            "textTransform": "uppercase",
+          }
+        }
+      />
+    </BVLinearGradient>
+  </View>
+</View>
+`;

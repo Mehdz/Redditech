@@ -1,0 +1,14 @@
+name: Run Tests (jest)
+on: [push]
+jobs:
+  Run-Tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: Install yarn dependencies
+        run: |
+          yarn install --frozen-lockfile
+      - name: Run tests
+        run: |
+          yarn test

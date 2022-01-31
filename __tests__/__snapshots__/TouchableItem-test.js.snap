@@ -1,0 +1,210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessibilityRole="progressbar"
+  accessibilityState={
+    Object {
+      "busy": true,
+    }
+  }
+  accessible={true}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+      },
+      Object {
+        "flex": 1,
+        "marginTop": 50,
+      },
+    ]
+  }
+>
+  <View
+    collapsable={false}
+    style={
+      Object {
+        "height": 45,
+        "opacity": 1,
+        "width": 45,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      nativeID="animatedComponent"
+      style={
+        Object {
+          "alignItems": "center",
+          "bottom": 0,
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        nativeID="animatedComponent"
+        style={
+          Object {
+            "height": 45,
+            "transform": Array [
+              Object {
+                "rotate": "45deg",
+              },
+            ],
+            "width": 45,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            Object {
+              "height": 22.5,
+              "overflow": "hidden",
+              "width": 45,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            nativeID="animatedComponent"
+            style={
+              Object {
+                "height": 45,
+                "transform": Array [
+                  Object {
+                    "translateY": 0,
+                  },
+                  Object {
+                    "rotate": "-165deg",
+                  },
+                ],
+                "width": 45,
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              style={
+                Object {
+                  "height": 22.5,
+                  "overflow": "hidden",
+                  "width": 45,
+                }
+              }
+            >
+              <View
+                collapsable={false}
+                nativeID="animatedComponent"
+                style={
+                  Object {
+                    "borderColor": "#6200ee",
+                    "borderRadius": 22.5,
+                    "borderWidth": 4.5,
+                    "height": 45,
+                    "width": 45,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      collapsable={false}
+      nativeID="animatedComponent"
+      style={
+        Object {
+          "alignItems": "center",
+          "bottom": 0,
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        nativeID="animatedComponent"
+        style={
+          Object {
+            "height": 45,
+            "transform": Array [
+              Object {
+                "rotate": "45deg",
+              },
+            ],
+            "width": 45,
+          }
+        }
+      >
+        <View
+          collapsable={false}
+          style={
+            Object {
+              "height": 22.5,
+              "overflow": "hidden",
+              "top": 22.5,
+              "width": 45,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            nativeID="animatedComponent"
+            style={
+              Object {
+                "height": 45,
+                "transform": Array [
+                  Object {
+                    "translateY": -22.5,
+                  },
+                  Object {
+                    "rotate": "345deg",
+                  },
+                ],
+                "width": 45,
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              style={
+                Object {
+                  "height": 22.5,
+                  "overflow": "hidden",
+                  "width": 45,
+                }
+              }
+            >
+              <View
+                collapsable={false}
+                nativeID="animatedComponent"
+                style={
+                  Object {
+                    "borderColor": "#6200ee",
+                    "borderRadius": 22.5,
+                    "borderWidth": 4.5,
+                    "height": 45,
+                    "width": 45,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,26 @@
+name: Build iOS
+on: [push]
+jobs:
+  Build-iOS:
+    runs-on: macos-latest
+    steps:
+    - name: Check out repository code
+      uses: actions/checkout@v2
+    - name: Install yarn dependencies
+      run: |
+        yarn install --frozen-lockfile
+    - name: Ensure the readiness of the correct Xcode and its related tool
+      run: xcode-select -p
+    - name: Install pod dependencies
+      run: pod install
+      working-directory: ios
+    - name: Build iOS (debug)
+      run: "xcodebuild \
+        -workspace ios/ReadIT.xcworkspace \
+        -scheme ReadIT \
+        clean archive \
+        -sdk iphoneos \
+        -configuration Debug \
+        -UseModernBuildSystem=NO \
+        -archivePath $PWD/ReadIT \
+        CODE_SIGNING_ALLOWED=NO"

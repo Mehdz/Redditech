@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "paddingTop": 20,
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "System",
+          "fontWeight": "400",
+        },
+        Object {
+          "textAlign": "left",
+        },
+        Array [
+          Object {
+            "textAlign": "left",
+          },
+          Object {
+            "color": "rgba(0, 0, 0, 0.87)",
+            "fontFamily": "System",
+            "fontWeight": "500",
+            "writingDirection": "ltr",
+          },
+          Array [
+            Object {
+              "fontSize": 20,
+              "letterSpacing": 0.15,
+              "lineHeight": 30,
+              "marginVertical": 2,
+            },
+            Object {
+              "color": "#fe4500",
+              "fontSize": 20,
+            },
+          ],
+        ],
+      ]
+    }
+  />
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "System",
+          "fontWeight": "400",
+        },
+        Object {
+          "textAlign": "left",
+        },
+        Array [
+          Object {
+            "textAlign": "left",
+          },
+          Object {
+            "color": "rgba(0, 0, 0, 0.54)",
+            "fontFamily": "System",
+            "fontWeight": "400",
+            "writingDirection": "ltr",
+          },
+          Array [
+            Object {
+              "fontSize": 12,
+              "letterSpacing": 0.4,
+              "lineHeight": 20,
+              "marginVertical": 2,
+            },
+            Object {
+              "fontSize": 15,
+            },
+          ],
+        ],
+      ]
+    }
+  />
+</View>
+`;

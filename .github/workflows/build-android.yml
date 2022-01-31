@@ -1,0 +1,19 @@
+name: Build Android
+on: [push]
+jobs:
+  Build-Android:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: Install yarn dependencies
+        run: |
+          yarn install --frozen-lockfile
+      - name: Build Android Release
+        run: ./gradlew assembleDebug -Dorg.gradle.logging.level=info
+        working-directory: android
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: android-apk
+          path: '**/*.apk'

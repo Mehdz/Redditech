@@ -1,0 +1,1830 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "sources/.external-ecmascript.js",
+    "static": true,
+    "longname": "sources/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "sources/reducers/Actions/ApiRequest.js",
+    "content": "export const apiGetRequest = async (accessToken, url) =>\n    await fetch(url, {\n        method: 'GET',\n        headers: {\n            Authorization: 'bearer ' + accessToken,\n        },\n    });\n\nexport const apiPostRequest = async (accessToken, url) =>\n    await fetch(url, {\n        method: 'POST',\n        headers: {\n            Authorization: 'bearer ' + accessToken,\n        },\n    });\n\nexport const apiPatchRequest = async (accessToken, url, data) =>\n    await fetch(url, {\n        method: 'PATCH',\n        headers: {\n            Authorization: 'bearer ' + accessToken,\n            Accept: 'application/json',\n            'Content-Type': 'application/json',\n        },\n        body: JSON.stringify(data),\n    });\n\nexport const apiGetRequestNoAuth = async url =>\n    await fetch(url, {\n        method: 'GET',\n    });\n",
+    "static": true,
+    "longname": "/home/lucas/Documents/B-DEV-501-LYN-5-1-redditech-mehdi.zehri/sources/reducers/Actions/ApiRequest.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "apiGetRequest",
+    "memberof": "sources/reducers/Actions/ApiRequest.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "sources/reducers/Actions/ApiRequest.js~apiGetRequest",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/ApiRequest.js",
+    "importStyle": "{apiGetRequest}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "accessToken",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "url",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "apiPostRequest",
+    "memberof": "sources/reducers/Actions/ApiRequest.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "sources/reducers/Actions/ApiRequest.js~apiPostRequest",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/ApiRequest.js",
+    "importStyle": "{apiPostRequest}",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [
+      {
+        "name": "accessToken",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "url",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "apiPatchRequest",
+    "memberof": "sources/reducers/Actions/ApiRequest.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "sources/reducers/Actions/ApiRequest.js~apiPatchRequest",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/ApiRequest.js",
+    "importStyle": "{apiPatchRequest}",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "params": [
+      {
+        "name": "accessToken",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "url",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "data",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "apiGetRequestNoAuth",
+    "memberof": "sources/reducers/Actions/ApiRequest.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "sources/reducers/Actions/ApiRequest.js~apiGetRequestNoAuth",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/ApiRequest.js",
+    "importStyle": "{apiGetRequestNoAuth}",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [
+      {
+        "name": "url",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "sources/reducers/Actions/Auth.js",
+    "content": "import EncryptedStorage from 'react-native-encrypted-storage';\nimport {authorize, refresh} from 'react-native-app-auth';\n\nexport const GET_REFRESHTOKEN = 'GET_REFRESHTOKEN';\nexport const GET_ACCESSTOKEN = 'GET_ACCESSTOKEN';\nexport const SET_USER_LOGGED_IN = 'SET_USER_LOGGED_IN';\nexport const SET_USER_LOGGED_OUT = 'SET_USER_LOGGED_OUT';\n\nconst config = {\n    redirectUrl: 'com.readit.fr://oauth2redirect/reddit',\n    clientId: 'x7Cef-txK_MwARV2_aRGmw',\n    clientSecret: '',\n    scopes: ['*'],\n    additionalParameters: {\n        duration: 'permanent',\n    },\n    serviceConfiguration: {\n        authorizationEndpoint:\n            'https://www.reddit.com/api/v1/authorize.compact',\n        tokenEndpoint: 'https://www.reddit.com/api/v1/access_token',\n    },\n    customHeaders: {\n        token: {\n            Authorization: 'Basic <base64encoded clientID:>',\n        },\n    },\n};\n\nexport const setUserLoggedIn = () => {\n    return dispatch => {\n        dispatch({\n            type: SET_USER_LOGGED_IN,\n            payload: true,\n        });\n    };\n};\n\nexport const setUserLoggedOut = () => {\n    return async dispatch => {\n        try {\n            dispatch({\n                type: SET_USER_LOGGED_OUT,\n                payload: false,\n            });\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const setRefreshToken = () => {\n    const now = Date.now();\n\n    return async dispatch => {\n        const refreshToken = await EncryptedStorage.getItem('refreshToken');\n        const duration = await EncryptedStorage.getItem('duration');\n        const expirationDate = new Date(duration && duration);\n\n        if (\n            (now >= expirationDate && refreshToken) ||\n            (duration === undefined && refreshToken)\n        ) {\n            try {\n                const auth = await refresh(config, {\n                    refreshToken: refreshToken,\n                });\n                await EncryptedStorage.setItem('accessToken', auth.accessToken);\n                await EncryptedStorage.setItem(\n                    'refreshToken',\n                    auth.refreshToken,\n                );\n                await EncryptedStorage.setItem(\n                    'duration',\n                    auth.accessTokenExpirationDate,\n                );\n\n                return dispatch(setUserLoggedIn());\n            } catch (error) {\n                console.log(error);\n                return dispatch(setUserLoggedOut());\n            }\n        }\n    };\n};\n\nexport const setAccessToken = () => {\n    return async dispatch => {\n        try {\n            const auth = await authorize(config);\n            const refreshToken = await EncryptedStorage.getItem('refreshToken');\n\n            if (!auth.error) {\n                await EncryptedStorage.setItem('accessToken', auth.accessToken);\n                await EncryptedStorage.setItem(\n                    'refreshToken',\n                    auth.refreshToken,\n                );\n                await EncryptedStorage.setItem(\n                    'duration',\n                    auth.accessTokenExpirationDate,\n                );\n\n                return dispatch(setUserLoggedIn());\n            } else if (refreshToken) {\n                dispatch(setRefreshToken());\n                dispatch(setUserLoggedIn());\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const clearToken = () => {\n    return async () => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        try {\n            if (accessToken) {\n                await EncryptedStorage.removeItem('accessToken');\n                await EncryptedStorage.removeItem('refreshToken');\n                await EncryptedStorage.removeItem('duration');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n",
+    "static": true,
+    "longname": "/home/lucas/Documents/B-DEV-501-LYN-5-1-redditech-mehdi.zehri/sources/reducers/Actions/Auth.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "GET_REFRESHTOKEN",
+    "memberof": "sources/reducers/Actions/Auth.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/Auth.js~GET_REFRESHTOKEN",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Auth.js",
+    "importStyle": "{GET_REFRESHTOKEN}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "GET_ACCESSTOKEN",
+    "memberof": "sources/reducers/Actions/Auth.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/Auth.js~GET_ACCESSTOKEN",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Auth.js",
+    "importStyle": "{GET_ACCESSTOKEN}",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "variable",
+    "name": "SET_USER_LOGGED_IN",
+    "memberof": "sources/reducers/Actions/Auth.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/Auth.js~SET_USER_LOGGED_IN",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Auth.js",
+    "importStyle": "{SET_USER_LOGGED_IN}",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "variable",
+    "name": "SET_USER_LOGGED_OUT",
+    "memberof": "sources/reducers/Actions/Auth.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/Auth.js~SET_USER_LOGGED_OUT",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Auth.js",
+    "importStyle": "{SET_USER_LOGGED_OUT}",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "variable",
+    "name": "config",
+    "memberof": "sources/reducers/Actions/Auth.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/Auth.js~config",
+    "access": "public",
+    "export": false,
+    "importPath": "readit/sources/reducers/Actions/Auth.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"redirectUrl\": string, \"clientId\": string, \"clientSecret\": *, \"scopes\": *, \"additionalParameters\": *, \"serviceConfiguration\": *, \"customHeaders\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "setUserLoggedIn",
+    "memberof": "sources/reducers/Actions/Auth.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Auth.js~setUserLoggedIn",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Auth.js",
+    "importStyle": "{setUserLoggedIn}",
+    "description": null,
+    "lineNumber": 29,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "setUserLoggedOut",
+    "memberof": "sources/reducers/Actions/Auth.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Auth.js~setUserLoggedOut",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Auth.js",
+    "importStyle": "{setUserLoggedOut}",
+    "description": null,
+    "lineNumber": 38,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "setRefreshToken",
+    "memberof": "sources/reducers/Actions/Auth.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Auth.js~setRefreshToken",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Auth.js",
+    "importStyle": "{setRefreshToken}",
+    "description": null,
+    "lineNumber": 51,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "function",
+    "name": "setAccessToken",
+    "memberof": "sources/reducers/Actions/Auth.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Auth.js~setAccessToken",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Auth.js",
+    "importStyle": "{setAccessToken}",
+    "description": null,
+    "lineNumber": 86,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "clearToken",
+    "memberof": "sources/reducers/Actions/Auth.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Auth.js~clearToken",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Auth.js",
+    "importStyle": "{clearToken}",
+    "description": null,
+    "lineNumber": 114,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "file",
+    "name": "sources/reducers/Actions/Posts.js",
+    "content": "import EncryptedStorage from 'react-native-encrypted-storage';\nimport {setUserLoggedOut, setRefreshToken} from './Auth.js';\nimport {apiGetRequestNoAuth, apiPostRequest} from './ApiRequest.js';\n\nexport const GET_SUBREDDIT_DATA = 'GET_SUBREDDIT_DATA';\nexport const RESET_DATA = 'RESET_DATA';\nexport const SET_SUBREDDIT_FILTER = 'SET_SUBREDDIT_FILTER';\nexport const SET_VOTE = 'SET_VOTE';\n\nexport const getFilteredSubredditData = (filter, before, after, limit) => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        let url = '';\n        if (\n            (accessToken && accessToken) === null ||\n            (accessToken && accessToken) === undefined\n        ) {\n            console.log('No user found');\n            url = `https://reddit.com/${filter}.json?before=${before}&after=${after}&limit=${limit}`;\n            dispatch(setUserLoggedOut());\n        } else {\n            url = `https://oauth.reddit.com/${filter}.json?before=${before}&after=${after}&limit=${limit}`;\n        }\n        try {\n            const response = await fetch(url, {\n                method: 'GET',\n                headers: {\n                    Authorization: 'bearer ' + accessToken,\n                },\n            });\n            const json = await response.json();\n            if (!json.error) {\n                dispatch({\n                    type: GET_SUBREDDIT_DATA,\n                    payload: json.data.children,\n                });\n            } else {\n                console.log('Error while fetching');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const getSubredditPosts = (subreddit, filter, before, after, limit) => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n        let url = '';\n        if (accessToken === null || accessToken === undefined) {\n            console.log('No user found');\n            url = `https://reddit.com${subreddit}${filter}.json?before=${before}&after=${after}&limit=${limit}&count=0`;\n            dispatch(setUserLoggedOut());\n        } else {\n            dispatch(setRefreshToken());\n            url = `https://oauth.reddit.com${subreddit}${filter}.json?before=${before}&after=${after}&limit=${limit}&count=0`;\n        }\n        try {\n            const response = await fetch(url, {\n                method: 'GET',\n                headers: {\n                    Authorization: 'bearer ' + accessToken,\n                },\n            });\n            const json = await response.json();\n            if (!json.error) {\n                dispatch({\n                    type: GET_SUBREDDIT_DATA,\n                    payload: json.data.children,\n                });\n            } else {\n                console.log('Error while fetching');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const setSubredditFilter = filter => {\n    return dispatch => {\n        dispatch({\n            type: SET_SUBREDDIT_FILTER,\n            payload: filter,\n        });\n    };\n};\n\nexport const resetData = () => {\n    return dispatch => {\n        dispatch({\n            type: RESET_DATA,\n            payload: [],\n        });\n    };\n};\n\nexport const setVote = params => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        if (accessToken === null || accessToken === undefined) {\n            console.log('No user found');\n            return dispatch(setUserLoggedOut());\n        }\n        dispatch(setRefreshToken());\n        try {\n            const response = await apiPostRequest(\n                accessToken,\n                'https://oauth.reddit.com/api/vote' + params,\n            );\n            const json = await response.json();\n            console.log(json);\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const getTrendingSubreddit = () => {\n    return async dispatch => {\n        const url =\n            'https://reddit.com/subreddits/popular.json?limit=5&count=0';\n        try {\n            const response = await apiGetRequestNoAuth(url);\n            const json = await response.json();\n            if (!json.error) {\n                dispatch({\n                    type: GET_SUBREDDIT_DATA,\n                    payload: json.data.children,\n                });\n            } else {\n                console.log('Error while fetching');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n",
+    "static": true,
+    "longname": "/home/lucas/Documents/B-DEV-501-LYN-5-1-redditech-mehdi.zehri/sources/reducers/Actions/Posts.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 65,
+    "kind": "variable",
+    "name": "GET_SUBREDDIT_DATA",
+    "memberof": "sources/reducers/Actions/Posts.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/Posts.js~GET_SUBREDDIT_DATA",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Posts.js",
+    "importStyle": "{GET_SUBREDDIT_DATA}",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "variable",
+    "name": "RESET_DATA",
+    "memberof": "sources/reducers/Actions/Posts.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/Posts.js~RESET_DATA",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Posts.js",
+    "importStyle": "{RESET_DATA}",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "variable",
+    "name": "SET_SUBREDDIT_FILTER",
+    "memberof": "sources/reducers/Actions/Posts.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/Posts.js~SET_SUBREDDIT_FILTER",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Posts.js",
+    "importStyle": "{SET_SUBREDDIT_FILTER}",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "variable",
+    "name": "SET_VOTE",
+    "memberof": "sources/reducers/Actions/Posts.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/Posts.js~SET_VOTE",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Posts.js",
+    "importStyle": "{SET_VOTE}",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "getFilteredSubredditData",
+    "memberof": "sources/reducers/Actions/Posts.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Posts.js~getFilteredSubredditData",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Posts.js",
+    "importStyle": "{getFilteredSubredditData}",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "params": [
+      {
+        "name": "filter",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "before",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "after",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "limit",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "getSubredditPosts",
+    "memberof": "sources/reducers/Actions/Posts.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Posts.js~getSubredditPosts",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Posts.js",
+    "importStyle": "{getSubredditPosts}",
+    "description": null,
+    "lineNumber": 47,
+    "undocument": true,
+    "params": [
+      {
+        "name": "subreddit",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "filter",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "before",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "after",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "limit",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "function",
+    "name": "setSubredditFilter",
+    "memberof": "sources/reducers/Actions/Posts.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Posts.js~setSubredditFilter",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Posts.js",
+    "importStyle": "{setSubredditFilter}",
+    "description": null,
+    "lineNumber": 81,
+    "undocument": true,
+    "params": [
+      {
+        "name": "filter",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "resetData",
+    "memberof": "sources/reducers/Actions/Posts.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Posts.js~resetData",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Posts.js",
+    "importStyle": "{resetData}",
+    "description": null,
+    "lineNumber": 90,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "setVote",
+    "memberof": "sources/reducers/Actions/Posts.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Posts.js~setVote",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Posts.js",
+    "importStyle": "{setVote}",
+    "description": null,
+    "lineNumber": 99,
+    "undocument": true,
+    "params": [
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "getTrendingSubreddit",
+    "memberof": "sources/reducers/Actions/Posts.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/Posts.js~getTrendingSubreddit",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/Posts.js",
+    "importStyle": "{getTrendingSubreddit}",
+    "description": null,
+    "lineNumber": 121,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "file",
+    "name": "sources/reducers/Actions/User.js",
+    "content": "import EncryptedStorage from 'react-native-encrypted-storage';\nimport {setUserLoggedOut, setRefreshToken} from './Auth';\nimport {\n    apiGetRequest,\n    apiGetRequestNoAuth,\n    apiPatchRequest,\n    apiPostRequest,\n} from './ApiRequest.js';\nimport {GET_SUBREDDIT_DATA} from './Posts';\n\nexport const GET_USER_INFOS = 'GET_USER_INFOS';\nexport const GET_USER_SETTINGS = 'GET_USER_SETTINGS';\nexport const GET_USER_MESSAGES = 'GET_USER_MESSAGES';\nexport const GET_USER_SPECIFIC_DATA = 'GET_USER_SPECIFIC_DATA';\n\nexport const getUserInfos = () => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        if (accessToken === null || accessToken === undefined) {\n            console.log('No user found');\n            return dispatch(setUserLoggedOut());\n        }\n        dispatch(setRefreshToken());\n        try {\n            const response = await apiGetRequest(\n                accessToken,\n                'https://oauth.reddit.com/api/v1/me.json',\n            );\n            const json = await response.json();\n\n            if (!json.error) {\n                dispatch({\n                    type: GET_USER_INFOS,\n                    payload: json,\n                });\n            } else {\n                console.log('Error while fetching');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const getUserSettings = () => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        if (accessToken === null || accessToken === undefined) {\n            console.log('No user found');\n            return dispatch(setUserLoggedOut());\n        }\n        dispatch(setRefreshToken());\n        try {\n            const response = await apiGetRequest(\n                accessToken,\n                'https://oauth.reddit.com/api/v1/me/prefs.json',\n            );\n            const json = await response.json();\n\n            if (!json.error) {\n                dispatch({\n                    type: GET_USER_SETTINGS,\n                    payload: json,\n                });\n            } else {\n                console.log('Error while fetching');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const setUserSettings = (keyParam, valueParam) => {\n    const data = {[keyParam]: valueParam};\n\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        if (accessToken === null || accessToken === undefined) {\n            console.log('No user found');\n            return dispatch(setUserLoggedOut());\n        }\n        dispatch(setRefreshToken());\n        try {\n            const response = await apiPatchRequest(\n                accessToken,\n                'https://oauth.reddit.com/api/v1/me/prefs.json',\n                data,\n            );\n            const json = await response.json();\n            if (!json.error) {\n                dispatch(getUserSettings());\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const getUserMessages = (before, after, count, limit) => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        if (accessToken === null || accessToken === undefined) {\n            console.log('No user found');\n            return dispatch(setUserLoggedOut());\n        }\n        dispatch(setRefreshToken());\n        try {\n            const url = `https://oauth.reddit.com/message/inbox.json?before=${before}&after=${after}&count=${count}&limit=${limit}`;\n            const response = await apiGetRequest(accessToken, url);\n            const json = await response.json();\n\n            if (!json.error) {\n                dispatch({\n                    type: GET_USER_MESSAGES,\n                    payload: json.data.children,\n                });\n            } else {\n                console.log('Error while fetching');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const getUserSpecificData = (dataname, username, after) => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        if (accessToken === null || accessToken === undefined) {\n            console.log('No user found');\n            return dispatch(setUserLoggedOut());\n        }\n        dispatch(setRefreshToken());\n        try {\n            const url = `https://oauth.reddit.com/user/${username}/${dataname}?count=0&limit=10&after=${after}`;\n            const response = await apiGetRequest(accessToken, url);\n            const json = await response.json();\n\n            if (!json.error) {\n                dispatch({\n                    type: GET_USER_SPECIFIC_DATA,\n                    payload: json.data.children,\n                });\n            } else {\n                console.log('Error while fetching');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const getUserTrophies = after => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        if (accessToken === null || accessToken === undefined) {\n            console.log('No user found');\n            return dispatch(setUserLoggedOut());\n        }\n        dispatch(setRefreshToken());\n        try {\n            const url = `https://oauth.reddit.com/api/v1/me/trophies?after=${after}`;\n            const response = await apiGetRequest(accessToken, url);\n            const json = await response.json();\n\n            if (!json.error) {\n                dispatch({\n                    type: GET_USER_SPECIFIC_DATA,\n                    payload: json.data.trophies,\n                });\n            } else {\n                console.log('Error while fetching');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const getUserSubreddit = after => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        if (accessToken === null || accessToken === undefined) {\n            console.log('No user found');\n            return dispatch(setUserLoggedOut());\n        }\n        dispatch(setRefreshToken());\n        try {\n            const url = `https://oauth.reddit.com/subreddits/mine/subscriber?limit=10&count=0&after=${after}`;\n            const response = await apiGetRequest(accessToken, url);\n            const json = await response.json();\n\n            if (!json.error) {\n                dispatch({\n                    type: GET_USER_SPECIFIC_DATA,\n                    payload: json.data.children,\n                });\n            } else {\n                console.log('Error while fetching');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const setUserSubscribe = params => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n\n        if (accessToken === null || accessToken === undefined) {\n            console.log('No user found');\n            return dispatch(setUserLoggedOut());\n        }\n        dispatch(setRefreshToken());\n        try {\n            const response = await apiPostRequest(\n                accessToken,\n                'https://oauth.reddit.com/api/subscribe' + params,\n            );\n            const json = await response.json();\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n\nexport const userSearchQuery = (query, after) => {\n    return async dispatch => {\n        const accessToken = await EncryptedStorage.getItem('accessToken');\n        let url = '';\n        let response = '';\n        try {\n            if (accessToken === null || accessToken === undefined) {\n                console.log('No user found');\n                url = `https://www.reddit.com/subreddits/search.json?q=${query}&after=${after}&limit=10`;\n\n                response = await apiGetRequestNoAuth(url);\n                dispatch(setUserLoggedOut());\n            } else {\n                dispatch(setRefreshToken());\n                url = `https://oauth.reddit.com/subreddits/search.json?q=${query}&after=${after}&limit=10`;\n                response = await apiGetRequest(accessToken, url);\n            }\n            const json = await response.json();\n            if (!json.error) {\n                dispatch({\n                    type: GET_SUBREDDIT_DATA,\n                    payload: json.data.children,\n                });\n            } else {\n                console.log('Error while fetching');\n            }\n        } catch (error) {\n            console.log(error);\n        }\n    };\n};\n",
+    "static": true,
+    "longname": "/home/lucas/Documents/B-DEV-501-LYN-5-1-redditech-mehdi.zehri/sources/reducers/Actions/User.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 76,
+    "kind": "variable",
+    "name": "GET_USER_INFOS",
+    "memberof": "sources/reducers/Actions/User.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~GET_USER_INFOS",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{GET_USER_INFOS}",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "variable",
+    "name": "GET_USER_SETTINGS",
+    "memberof": "sources/reducers/Actions/User.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~GET_USER_SETTINGS",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{GET_USER_SETTINGS}",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "variable",
+    "name": "GET_USER_MESSAGES",
+    "memberof": "sources/reducers/Actions/User.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~GET_USER_MESSAGES",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{GET_USER_MESSAGES}",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "variable",
+    "name": "GET_USER_SPECIFIC_DATA",
+    "memberof": "sources/reducers/Actions/User.js",
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~GET_USER_SPECIFIC_DATA",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{GET_USER_SPECIFIC_DATA}",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "getUserInfos",
+    "memberof": "sources/reducers/Actions/User.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~getUserInfos",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{getUserInfos}",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "function",
+    "name": "getUserSettings",
+    "memberof": "sources/reducers/Actions/User.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~getUserSettings",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{getUserSettings}",
+    "description": null,
+    "lineNumber": 46,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "setUserSettings",
+    "memberof": "sources/reducers/Actions/User.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~setUserSettings",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{setUserSettings}",
+    "description": null,
+    "lineNumber": 76,
+    "undocument": true,
+    "params": [
+      {
+        "name": "keyParam",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "valueParam",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "function",
+    "name": "getUserMessages",
+    "memberof": "sources/reducers/Actions/User.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~getUserMessages",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{getUserMessages}",
+    "description": null,
+    "lineNumber": 103,
+    "undocument": true,
+    "params": [
+      {
+        "name": "before",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "after",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "count",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "limit",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 84,
+    "kind": "function",
+    "name": "getUserSpecificData",
+    "memberof": "sources/reducers/Actions/User.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~getUserSpecificData",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{getUserSpecificData}",
+    "description": null,
+    "lineNumber": 131,
+    "undocument": true,
+    "params": [
+      {
+        "name": "dataname",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "username",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "after",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "function",
+    "name": "getUserTrophies",
+    "memberof": "sources/reducers/Actions/User.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~getUserTrophies",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{getUserTrophies}",
+    "description": null,
+    "lineNumber": 159,
+    "undocument": true,
+    "params": [
+      {
+        "name": "after",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 86,
+    "kind": "function",
+    "name": "getUserSubreddit",
+    "memberof": "sources/reducers/Actions/User.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~getUserSubreddit",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{getUserSubreddit}",
+    "description": null,
+    "lineNumber": 187,
+    "undocument": true,
+    "params": [
+      {
+        "name": "after",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "function",
+    "name": "setUserSubscribe",
+    "memberof": "sources/reducers/Actions/User.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~setUserSubscribe",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{setUserSubscribe}",
+    "description": null,
+    "lineNumber": 215,
+    "undocument": true,
+    "params": [
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "function",
+    "name": "userSearchQuery",
+    "memberof": "sources/reducers/Actions/User.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/Actions/User.js~userSearchQuery",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Actions/User.js",
+    "importStyle": "{userSearchQuery}",
+    "description": null,
+    "lineNumber": 236,
+    "undocument": true,
+    "params": [
+      {
+        "name": "query",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "after",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "file",
+    "name": "sources/reducers/AuthReducers.js",
+    "content": "/* eslint-disable indent */\nimport {SET_USER_LOGGED_IN, SET_USER_LOGGED_OUT} from './Actions/Auth';\n\nconst initState = {\n    isLogged: undefined,\n};\n\nfunction authReducer(state = initState, action) {\n    switch (action.type) {\n        case SET_USER_LOGGED_IN:\n            return {...state, isLogged: action.payload};\n        case SET_USER_LOGGED_OUT:\n            return {...state, isLogged: action.payload};\n        default:\n            return state;\n    }\n}\n\nexport default authReducer;\n",
+    "static": true,
+    "longname": "/home/lucas/Documents/B-DEV-501-LYN-5-1-redditech-mehdi.zehri/sources/reducers/AuthReducers.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 90,
+    "kind": "variable",
+    "name": "initState",
+    "memberof": "sources/reducers/AuthReducers.js",
+    "static": true,
+    "longname": "sources/reducers/AuthReducers.js~initState",
+    "access": "public",
+    "export": false,
+    "importPath": "readit/sources/reducers/AuthReducers.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"isLogged\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 91,
+    "kind": "function",
+    "name": "authReducer",
+    "memberof": "sources/reducers/AuthReducers.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/AuthReducers.js~authReducer",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/AuthReducers.js",
+    "importStyle": "authReducer",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [
+      {
+        "name": "state",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "initState",
+        "defaultValue": "initState"
+      },
+      {
+        "name": "action",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "file",
+    "name": "sources/reducers/DataReducers.js",
+    "content": "/* eslint-disable indent */\nimport {\n    GET_USER_INFOS,\n    GET_USER_SETTINGS,\n    GET_USER_MESSAGES,\n    GET_USER_SPECIFIC_DATA,\n} from './Actions/User';\nimport {\n    GET_SUBREDDIT_DATA,\n    RESET_DATA,\n    SET_SUBREDDIT_FILTER,\n} from './Actions/Posts';\n\nconst initState = {\n    data: {\n        userInfos: {},\n        userSettings: {},\n        userMessages: {},\n        subredditData: {},\n        subredditFilter: 'hot',\n    },\n};\n\nfunction dataReducer(state = initState, action) {\n    switch (action.type) {\n        case GET_USER_INFOS:\n            return {\n                ...state,\n                data: {...state.data, userInfos: action.payload},\n            };\n        case GET_USER_SETTINGS:\n            return {\n                ...state,\n                data: {...state.data, userSettings: action.payload},\n            };\n        case GET_USER_MESSAGES:\n            return {\n                ...state,\n                data: {...state.data, userMessages: action.payload},\n            };\n        case GET_SUBREDDIT_DATA:\n            return {\n                ...state,\n                data: {\n                    ...state.data,\n                    subredditData: state.data.subredditData.concat(\n                        action.payload,\n                    ),\n                },\n            };\n        case GET_USER_SPECIFIC_DATA:\n            return {\n                ...state,\n                data: {\n                    ...state.data,\n                    subredditData: state.data.subredditData.concat(\n                        action.payload,\n                    ),\n                },\n            };\n        case RESET_DATA:\n            return {\n                ...state,\n                data: {\n                    ...state.data,\n                    subredditData: action.payload,\n                },\n            };\n        case SET_SUBREDDIT_FILTER:\n            return {\n                ...state,\n                data: {\n                    ...state.data,\n                    subredditFilter: action.payload,\n                },\n            };\n        default:\n            return state;\n    }\n}\n\nexport default dataReducer;\n",
+    "static": true,
+    "longname": "/home/lucas/Documents/B-DEV-501-LYN-5-1-redditech-mehdi.zehri/sources/reducers/DataReducers.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 93,
+    "kind": "variable",
+    "name": "initState",
+    "memberof": "sources/reducers/DataReducers.js",
+    "static": true,
+    "longname": "sources/reducers/DataReducers.js~initState",
+    "access": "public",
+    "export": false,
+    "importPath": "readit/sources/reducers/DataReducers.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"data\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 94,
+    "kind": "function",
+    "name": "dataReducer",
+    "memberof": "sources/reducers/DataReducers.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "sources/reducers/DataReducers.js~dataReducer",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/DataReducers.js",
+    "importStyle": "dataReducer",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [
+      {
+        "name": "state",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "initState",
+        "defaultValue": "initState"
+      },
+      {
+        "name": "action",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 95,
+    "kind": "file",
+    "name": "sources/reducers/Store.js",
+    "content": "import {createStore, combineReducers, applyMiddleware} from 'redux';\nimport thunk from 'redux-thunk';\nimport dataReducer from './DataReducers';\nimport authReducer from './AuthReducers';\n\nconst rootReducer = combineReducers({dataReducer, authReducer});\n\nexport const Store = createStore(rootReducer, applyMiddleware(thunk));\n",
+    "static": true,
+    "longname": "/home/lucas/Documents/B-DEV-501-LYN-5-1-redditech-mehdi.zehri/sources/reducers/Store.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 96,
+    "kind": "variable",
+    "name": "rootReducer",
+    "memberof": "sources/reducers/Store.js",
+    "static": true,
+    "longname": "sources/reducers/Store.js~rootReducer",
+    "access": "public",
+    "export": false,
+    "importPath": "readit/sources/reducers/Store.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 97,
+    "kind": "variable",
+    "name": "Store",
+    "memberof": "sources/reducers/Store.js",
+    "static": true,
+    "longname": "sources/reducers/Store.js~Store",
+    "access": "public",
+    "export": true,
+    "importPath": "readit/sources/reducers/Store.js",
+    "importStyle": "{Store}",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "",
+    "longname": "/home/lucas/Documents/B-DEV-501-LYN-5-1-redditech-mehdi.zehri/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"readit\",\n  \"version\": \"0.0.1\",\n  \"private\": true,\n  \"scripts\": {\n    \"android\": \"react-native run-android\",\n    \"ios\": \"react-native run-ios\",\n    \"ios-device\": \"react-native run-ios --device \\\"Mehdi’s iPhone\\\"\",\n    \"start\": \"react-native start\",\n    \"test\": \"jest\",\n    \"lint\": \"eslint .\"\n  },\n  \"dependencies\": {\n    \"@react-navigation/bottom-tabs\": \"^6.0.7\",\n    \"@react-navigation/material-bottom-tabs\": \"^6.0.9\",\n    \"@react-navigation/native\": \"^6.0.4\",\n    \"@react-navigation/native-stack\": \"^6.2.2\",\n    \"react\": \"17.0.2\",\n    \"react-native\": \"0.65.1\",\n    \"react-native-app-auth\": \"^6.4.0\",\n    \"react-native-encrypted-storage\": \"^4.0.2\",\n    \"react-native-linear-gradient\": \"^2.5.6\",\n    \"react-native-markdown-view\": \"^1.1.4\",\n    \"react-native-paper\": \"^4.9.2\",\n    \"react-native-safe-area-context\": \"^3.3.2\",\n    \"react-native-screens\": \"^3.8.0\",\n    \"react-native-vector-icons\": \"^8.1.0\",\n    \"react-redux\": \"^7.2.5\",\n    \"redux\": \"^4.1.1\",\n    \"redux-thunk\": \"^2.3.0\"\n  },\n  \"optionalDependencies\": {\n    \"ios-deploy\": \"^1.11.4\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"^7.12.9\",\n    \"@babel/runtime\": \"^7.12.5\",\n    \"@react-native-community/eslint-config\": \"^2.0.0\",\n    \"babel-jest\": \"^26.6.3\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"^1.0.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"eslint\": \"^7.32.0\",\n    \"eslint-plugin-react\": \"^7.26.1\",\n    \"jest\": \"^26.6.3\",\n    \"metro-react-native-babel-preset\": \"^0.66.0\",\n    \"react-native-codegen\": \"^0.0.7\",\n    \"react-test-renderer\": \"17.0.2\"\n  },\n  \"jest\": {\n    \"preset\": \"react-native\",\n    \"transformIgnorePatterns\": [\n      \"<rootDir>/node_modules/react-native-paper\"\n    ],\n    \"setupFilesAfterEnv\": [\n      \"<rootDir>/jest.setup.js\"\n    ]\n  }\n}\n",
+    "longname": "/home/lucas/Documents/B-DEV-501-LYN-5-1-redditech-mehdi.zehri/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

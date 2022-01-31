@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../../">
+  <title data-ice="title">sources/reducers/Actions/User.js | readit</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+</head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+</header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#reducers">reducers</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-authReducer">authReducer</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-dataReducer">dataReducer</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-Store">Store</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#reducers-actions">reducers/Actions</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-apiGetRequest">apiGetRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-apiGetRequestNoAuth">apiGetRequestNoAuth</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-apiPatchRequest">apiPatchRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-apiPostRequest">apiPostRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-clearToken">clearToken</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-setAccessToken">setAccessToken</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-setRefreshToken">setRefreshToken</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-setUserLoggedIn">setUserLoggedIn</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-setUserLoggedOut">setUserLoggedOut</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getFilteredSubredditData">getFilteredSubredditData</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getSubredditPosts">getSubredditPosts</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getTrendingSubreddit">getTrendingSubreddit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-resetData">resetData</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-setSubredditFilter">setSubredditFilter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-setVote">setVote</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getUserInfos">getUserInfos</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getUserMessages">getUserMessages</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getUserSettings">getUserSettings</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getUserSpecificData">getUserSpecificData</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getUserSubreddit">getUserSubreddit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getUserTrophies">getUserTrophies</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-setUserSettings">setUserSettings</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-setUserSubscribe">setUserSubscribe</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-userSearchQuery">userSearchQuery</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-GET_ACCESSTOKEN">GET_ACCESSTOKEN</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-GET_REFRESHTOKEN">GET_REFRESHTOKEN</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-SET_USER_LOGGED_IN">SET_USER_LOGGED_IN</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-SET_USER_LOGGED_OUT">SET_USER_LOGGED_OUT</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-GET_SUBREDDIT_DATA">GET_SUBREDDIT_DATA</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-RESET_DATA">RESET_DATA</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-SET_SUBREDDIT_FILTER">SET_SUBREDDIT_FILTER</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-SET_VOTE">SET_VOTE</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-GET_USER_INFOS">GET_USER_INFOS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-GET_USER_MESSAGES">GET_USER_MESSAGES</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-GET_USER_SETTINGS">GET_USER_SETTINGS</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-GET_USER_SPECIFIC_DATA">GET_USER_SPECIFIC_DATA</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">sources/reducers/Actions/User.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import EncryptedStorage from &apos;react-native-encrypted-storage&apos;;
+import {setUserLoggedOut, setRefreshToken} from &apos;./Auth&apos;;
+import {
+    apiGetRequest,
+    apiGetRequestNoAuth,
+    apiPatchRequest,
+    apiPostRequest,
+} from &apos;./ApiRequest.js&apos;;
+import {GET_SUBREDDIT_DATA} from &apos;./Posts&apos;;
+
+export const GET_USER_INFOS = &apos;GET_USER_INFOS&apos;;
+export const GET_USER_SETTINGS = &apos;GET_USER_SETTINGS&apos;;
+export const GET_USER_MESSAGES = &apos;GET_USER_MESSAGES&apos;;
+export const GET_USER_SPECIFIC_DATA = &apos;GET_USER_SPECIFIC_DATA&apos;;
+
+export const getUserInfos = () =&gt; {
+    return async dispatch =&gt; {
+        const accessToken = await EncryptedStorage.getItem(&apos;accessToken&apos;);
+
+        if (accessToken === null || accessToken === undefined) {
+            console.log(&apos;No user found&apos;);
+            return dispatch(setUserLoggedOut());
+        }
+        dispatch(setRefreshToken());
+        try {
+            const response = await apiGetRequest(
+                accessToken,
+                &apos;https://oauth.reddit.com/api/v1/me.json&apos;,
+            );
+            const json = await response.json();
+
+            if (!json.error) {
+                dispatch({
+                    type: GET_USER_INFOS,
+                    payload: json,
+                });
+            } else {
+                console.log(&apos;Error while fetching&apos;);
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    };
+};
+
+export const getUserSettings = () =&gt; {
+    return async dispatch =&gt; {
+        const accessToken = await EncryptedStorage.getItem(&apos;accessToken&apos;);
+
+        if (accessToken === null || accessToken === undefined) {
+            console.log(&apos;No user found&apos;);
+            return dispatch(setUserLoggedOut());
+        }
+        dispatch(setRefreshToken());
+        try {
+            const response = await apiGetRequest(
+                accessToken,
+                &apos;https://oauth.reddit.com/api/v1/me/prefs.json&apos;,
+            );
+            const json = await response.json();
+
+            if (!json.error) {
+                dispatch({
+                    type: GET_USER_SETTINGS,
+                    payload: json,
+                });
+            } else {
+                console.log(&apos;Error while fetching&apos;);
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    };
+};
+
+export const setUserSettings = (keyParam, valueParam) =&gt; {
+    const data = {[keyParam]: valueParam};
+
+    return async dispatch =&gt; {
+        const accessToken = await EncryptedStorage.getItem(&apos;accessToken&apos;);
+
+        if (accessToken === null || accessToken === undefined) {
+            console.log(&apos;No user found&apos;);
+            return dispatch(setUserLoggedOut());
+        }
+        dispatch(setRefreshToken());
+        try {
+            const response = await apiPatchRequest(
+                accessToken,
+                &apos;https://oauth.reddit.com/api/v1/me/prefs.json&apos;,
+                data,
+            );
+            const json = await response.json();
+            if (!json.error) {
+                dispatch(getUserSettings());
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    };
+};
+
+export const getUserMessages = (before, after, count, limit) =&gt; {
+    return async dispatch =&gt; {
+        const accessToken = await EncryptedStorage.getItem(&apos;accessToken&apos;);
+
+        if (accessToken === null || accessToken === undefined) {
+            console.log(&apos;No user found&apos;);
+            return dispatch(setUserLoggedOut());
+        }
+        dispatch(setRefreshToken());
+        try {
+            const url = `https://oauth.reddit.com/message/inbox.json?before=${before}&amp;after=${after}&amp;count=${count}&amp;limit=${limit}`;
+            const response = await apiGetRequest(accessToken, url);
+            const json = await response.json();
+
+            if (!json.error) {
+                dispatch({
+                    type: GET_USER_MESSAGES,
+                    payload: json.data.children,
+                });
+            } else {
+                console.log(&apos;Error while fetching&apos;);
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    };
+};
+
+export const getUserSpecificData = (dataname, username, after) =&gt; {
+    return async dispatch =&gt; {
+        const accessToken = await EncryptedStorage.getItem(&apos;accessToken&apos;);
+
+        if (accessToken === null || accessToken === undefined) {
+            console.log(&apos;No user found&apos;);
+            return dispatch(setUserLoggedOut());
+        }
+        dispatch(setRefreshToken());
+        try {
+            const url = `https://oauth.reddit.com/user/${username}/${dataname}?count=0&amp;limit=10&amp;after=${after}`;
+            const response = await apiGetRequest(accessToken, url);
+            const json = await response.json();
+
+            if (!json.error) {
+                dispatch({
+                    type: GET_USER_SPECIFIC_DATA,
+                    payload: json.data.children,
+                });
+            } else {
+                console.log(&apos;Error while fetching&apos;);
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    };
+};
+
+export const getUserTrophies = after =&gt; {
+    return async dispatch =&gt; {
+        const accessToken = await EncryptedStorage.getItem(&apos;accessToken&apos;);
+
+        if (accessToken === null || accessToken === undefined) {
+            console.log(&apos;No user found&apos;);
+            return dispatch(setUserLoggedOut());
+        }
+        dispatch(setRefreshToken());
+        try {
+            const url = `https://oauth.reddit.com/api/v1/me/trophies?after=${after}`;
+            const response = await apiGetRequest(accessToken, url);
+            const json = await response.json();
+
+            if (!json.error) {
+                dispatch({
+                    type: GET_USER_SPECIFIC_DATA,
+                    payload: json.data.trophies,
+                });
+            } else {
+                console.log(&apos;Error while fetching&apos;);
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    };
+};
+
+export const getUserSubreddit = after =&gt; {
+    return async dispatch =&gt; {
+        const accessToken = await EncryptedStorage.getItem(&apos;accessToken&apos;);
+
+        if (accessToken === null || accessToken === undefined) {
+            console.log(&apos;No user found&apos;);
+            return dispatch(setUserLoggedOut());
+        }
+        dispatch(setRefreshToken());
+        try {
+            const url = `https://oauth.reddit.com/subreddits/mine/subscriber?limit=10&amp;count=0&amp;after=${after}`;
+            const response = await apiGetRequest(accessToken, url);
+            const json = await response.json();
+
+            if (!json.error) {
+                dispatch({
+                    type: GET_USER_SPECIFIC_DATA,
+                    payload: json.data.children,
+                });
+            } else {
+                console.log(&apos;Error while fetching&apos;);
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    };
+};
+
+export const setUserSubscribe = params =&gt; {
+    return async dispatch =&gt; {
+        const accessToken = await EncryptedStorage.getItem(&apos;accessToken&apos;);
+
+        if (accessToken === null || accessToken === undefined) {
+            console.log(&apos;No user found&apos;);
+            return dispatch(setUserLoggedOut());
+        }
+        dispatch(setRefreshToken());
+        try {
+            const response = await apiPostRequest(
+                accessToken,
+                &apos;https://oauth.reddit.com/api/subscribe&apos; + params,
+            );
+            const json = await response.json();
+        } catch (error) {
+            console.log(error);
+        }
+    };
+};
+
+export const userSearchQuery = (query, after) =&gt; {
+    return async dispatch =&gt; {
+        const accessToken = await EncryptedStorage.getItem(&apos;accessToken&apos;);
+        let url = &apos;&apos;;
+        let response = &apos;&apos;;
+        try {
+            if (accessToken === null || accessToken === undefined) {
+                console.log(&apos;No user found&apos;);
+                url = `https://www.reddit.com/subreddits/search.json?q=${query}&amp;after=${after}&amp;limit=10`;
+
+                response = await apiGetRequestNoAuth(url);
+                dispatch(setUserLoggedOut());
+            } else {
+                dispatch(setRefreshToken());
+                url = `https://oauth.reddit.com/subreddits/search.json?q=${query}&amp;after=${after}&amp;limit=10`;
+                response = await apiGetRequest(accessToken, url);
+            }
+            const json = await response.json();
+            if (!json.error) {
+                dispatch({
+                    type: GET_SUBREDDIT_DATA,
+                    payload: json.data.children,
+                });
+            } else {
+                console.log(&apos;Error while fetching&apos;);
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    };
+};
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

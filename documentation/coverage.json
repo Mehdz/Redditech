@@ -1,0 +1,92 @@
+{
+  "coverage": "0%",
+  "expectCount": 43,
+  "actualCount": 0,
+  "files": {
+    "sources/reducers/Actions/ApiRequest.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        9,
+        17,
+        28
+      ]
+    },
+    "sources/reducers/Actions/Auth.js": {
+      "expectCount": 10,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        5,
+        6,
+        7,
+        9,
+        29,
+        38,
+        51,
+        86,
+        114
+      ]
+    },
+    "sources/reducers/Actions/Posts.js": {
+      "expectCount": 10,
+      "actualCount": 0,
+      "undocumentLines": [
+        5,
+        6,
+        7,
+        8,
+        10,
+        47,
+        81,
+        90,
+        99,
+        121
+      ]
+    },
+    "sources/reducers/Actions/User.js": {
+      "expectCount": 13,
+      "actualCount": 0,
+      "undocumentLines": [
+        11,
+        12,
+        13,
+        14,
+        16,
+        46,
+        76,
+        103,
+        131,
+        159,
+        187,
+        215,
+        236
+      ]
+    },
+    "sources/reducers/AuthReducers.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        8
+      ]
+    },
+    "sources/reducers/DataReducers.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        14,
+        24
+      ]
+    },
+    "sources/reducers/Store.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        8
+      ]
+    }
+  }
+}
